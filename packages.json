@@ -1,14 +1,14 @@
 [
   {
     "package": "tbeptools",
-    "url": " https://github.com/tbep-tech/tbeptools"
+    "url": "https://github.com/tbep-tech/tbeptools"
   },
   {
     "package": "wqtrends",
-    "url": " https://github.com/tbep-tech/wqtrends"
+    "url": "https://github.com/tbep-tech/wqtrends"
   },
   {
     "package": "peptools",
-    "url": " https://github.com/tbep-tech/peptools"
+    "url": "https://github.com/tbep-tech/peptools"
   }
 ]
