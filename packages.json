@@ -1,5 +1,9 @@
 [
   {
+    "package": "tbeploads",
+    "url": "https://github.com/tbep-tech/tbeploads"
+  },
+  {
     "package": "tbeptools",
     "url": "https://github.com/tbep-tech/tbeptools"
   },
