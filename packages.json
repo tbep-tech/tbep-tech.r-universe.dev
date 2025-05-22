@@ -14,5 +14,9 @@
   {
     "package": "peptools",
     "url": "https://github.com/tbep-tech/peptools"
+  },
+  {
+    "package": "slrcsap",
+    "url": "https://github.com/tbep-tech/slrcsap"
   }
 ]
